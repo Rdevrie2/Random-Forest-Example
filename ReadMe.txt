@@ -2,4 +2,4 @@ Hello! This project was done in Colab Notebook by Google. I have all the informa
 
 For some reason, Github will not always load the notebook. To fix this, you can select the project .ipynb URL, which is as follows: https://github.com/Rdevrie2/Random-Forest-Example/blob/main/DMAP_SP21_Final_Project.ipynb
 
-Then open up Google Colab, in the menu at the top select 'File', and then 'Open Notebook'. After this select the 'GitHub' tab and post in the URL I have shown above, that should allow the notebook to open and run!
+Then open up Google Colab, in the menu at the top select 'File', and then 'Open Notebook'. After this select the 'GitHub' tab and post in the URL I have shown above, that should allow the notebook to open and run! This is preferred to viewing the notebook an GitHub as this way you can run the examples yourself and play with the numbers should you so choose!
